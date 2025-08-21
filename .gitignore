@@ -21,11 +21,10 @@ Thumbs.db
 *.dSYM/
 *.pdb
 
-# Executables (no extension)
-Basic
-**/Basic
-overflow
-**/Overflow
+
+# Specific executable files
+code/data/Basic
+code/data/Overflow/overflow
 
 # Temporary files
 *.tmp
