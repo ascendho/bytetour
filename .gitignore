@@ -1,0 +1,77 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.so
+*.dylib
+*.a
+*.lib
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# Executables (no extension)
+Basic
+**/Basic
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+.vs/
+
+# Logs
+*.log
+
+# Compiled Dynamic libraries
+*.so.*
+*.dylib.*
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Build directories
+build/
+bin/
+obj/
+debug/
+release/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
