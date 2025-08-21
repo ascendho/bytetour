@@ -24,6 +24,8 @@ Thumbs.db
 # Executables (no extension)
 Basic
 **/Basic
+overflow
+**/Overflow
 
 # Temporary files
 *.tmp
@@ -61,7 +63,6 @@ release/
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
-Makefile
 
 # Xcode
 *.xcodeproj/
