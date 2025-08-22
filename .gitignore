@@ -25,6 +25,7 @@ Thumbs.db
 # Specific executable files
 code/data/Basic
 code/data/Overflow/overflow
+code/data/Adder/adder32
 
 # Temporary files
 *.tmp
