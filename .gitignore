@@ -26,6 +26,7 @@ Thumbs.db
 code/data/Basic
 code/data/Overflow/overflow
 code/data/Adder/adder32
+code/data/String2Num/strnum
 
 # Temporary files
 *.tmp
